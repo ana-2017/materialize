@@ -1,0 +1,13 @@
+  body {
+    background-image: url("../img/7.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+#autor{
+  align: center;
+  height: 30%;
+  width: 30%;
+}
+#img3{
+  width: 100%;
+}
